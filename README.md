@@ -1,2 +1,2 @@
 # Data-Analyses-Portfolio
-Portfolio of sample analyses projects using MS Excel
+Portfolio of data analyses projects
